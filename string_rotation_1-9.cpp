@@ -7,7 +7,7 @@ using namespace std;
 
 //pseudocode:
 // waterbottle vs. erbottlewat
-// create a map of pairings
+// create a map of pairings between each character and the character ahead of it.
 // sort them 
 // check if the pairings are equal
 
